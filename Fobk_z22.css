@@ -1,0 +1,15 @@
+/*<14.05.2022-Mateusz Fobka */
+p {
+    color: red;
+    font-size: 22pt;
+}
+p#gruby_Tuchowski { 
+    color: green;
+    font-size: 17pt;
+    font-weight: 900;
+}
+#dlawszystkich_Tuchowski {
+    color: yellow;
+    font-size: 10pt;
+    font-family: Arial;
+}
